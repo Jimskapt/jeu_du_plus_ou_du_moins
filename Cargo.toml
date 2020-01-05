@@ -1,0 +1,13 @@
+[package]
+name = "jeu_du_plus_ou_du_moins"
+version = "0.1.0"
+authors = ["Jimskapt <rami.programmer@gmail.com>"]
+edition = "2018"
+description = "Un jeu où vous devez deviner quel nombre l'ordinateur a choisi."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Jimskapt/jeu_du_plus_ou_du_moins"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.6.0"
